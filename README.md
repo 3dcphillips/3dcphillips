@@ -9,7 +9,7 @@ Seeking a Tier 1 SOC Analyst role where I can contribute to security monitoring,
 ## 🧠 Skills
 | Skill                        | Associated Project |
 |-----------------------------|------------------|
-| SIEM Administration & Log Analysis | <a href="#">SOC Detection Lab</a> |
+| SIEM Administration & Log Analysis | <a href="https://github.com/3dcphillips/SOC-Detection-Lab/blob/main/README.md">SOC Detection Lab</a> |
 | Alert Triage & Prioritization      | <a href="#">Alert Triage & Incident Response Playbook System</a> |
 | Incident Investigation             | <a href="#">Digital Forensics Investigation Case Files</a> |
 
