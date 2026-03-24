@@ -3,7 +3,7 @@
 
 Cybersecurity analyst focused on threat detection, alert triage, and incident response. I have hands-on experience building a custom SIEM, analyzing logs, and investigating security events in lab environments that simulate real-world SOC operations.
 
-## 🎯 Objective
+## Objective
 Seeking a Tier 1 SOC Analyst role where I can contribute to security monitoring, alert investigation, and incident response while continuing to develop my skills in detection and defensive security.
 
 ## Skills
